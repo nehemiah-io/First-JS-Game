@@ -7,5 +7,5 @@ var imageRepository = new function() {
 	// Define images
 	this.background = new Image();
 	// Set images src
-	this.background.src = "imgs/bg.png";
+	this.background.src = "background.jpg";
 }
